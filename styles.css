@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: green;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 30px;
+    color: khaki; 
+    position: relative; 
+}
+
+form {
+    margin: 10px;
+    padding: 55px;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 50%;
+    margin-left: 250px;
+    position: relative; 
+}
+
+h2 {
+    text-align: center;
+}
+
+#flname, #email {
+    height: 15px;
+    margin: 10px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.question {
+    margin: 5px;
+}
+
+span {
+    font-size: 7px; 
+}
